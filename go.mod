@@ -1,3 +1,3 @@
-module github.com/thinkgos/timing
+module github.com/themeyic/timing
 
 go 1.13
