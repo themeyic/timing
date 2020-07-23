@@ -3,7 +3,7 @@ package main
 import (
 	"time"
 
-	"github.com/thinkgos/timing"
+	"github.com/themeyic/timing"
 )
 
 func main() {
